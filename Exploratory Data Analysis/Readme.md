@@ -30,8 +30,17 @@ RENAME TO the_dataminant_suppliers;
 ```
  &nbsp;
 
-  &nbsp;
 
-  ## Chaning the table names
-
+  ## What are the top 10 selling product of Northwind Traders?
+  
+  ```sql
+SELECT p.productname, SUM(o.quantity) AS Total_Quantity_Sold
+FROM the_dataminant_products p
+JOIN the_dataminant_order_details o
+ON p.productid = o.productid
+GROUP BY p.productid
+ORDER BY Total_Quantity_Sold DESC
+LIMIT 10
+```
+![top 10 product](https://github.com/Dataminant/Exploratory-Data-Analysis-of-Northwind-Traders-Sales-Data/blob/764ad310aa0fa832cc0d16d9284d874aa1b285a5/Exploratory%20Data%20Analysis/Questions/What%20are%20the%20top%2010%20selling%20product%20of%20Northwind%20Traders.jpg)
   
