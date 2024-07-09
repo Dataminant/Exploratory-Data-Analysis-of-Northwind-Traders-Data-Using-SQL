@@ -1,5 +1,10 @@
 # Exploratory Data Analysis of Northwind Traders Sales Data
 
+![dashboard](https://github.com/Dataminant/Exploratory-Data-Analysis-of-Northwind-Traders-Sales-Data/blob/140158c324e5a3cd6ed4a70b05eda29ed4d16935/Exploratory%20Data%20Analysis/Questions/NorthWind%20dashboard.jpg)
+&nbsp;
+  
+   &nbsp;
+
 ## Changing the table names
 
 ```sql
