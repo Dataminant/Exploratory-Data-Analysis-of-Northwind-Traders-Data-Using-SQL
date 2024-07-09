@@ -31,7 +31,7 @@ RENAME TO the_dataminant_suppliers;
  &nbsp;
 
 
-  ## What are the top 10 selling product of Northwind Traders?
+  ## 1. What are the top 10 selling product of Northwind Traders?
   
   ```sql
 SELECT p.productname, SUM(o.quantity) AS Total_Quantity_Sold
@@ -44,8 +44,10 @@ LIMIT 10
 ```
 ![top 10 product](https://github.com/Dataminant/Exploratory-Data-Analysis-of-Northwind-Traders-Sales-Data/blob/ce05a3824e62f329e5f649aaaf7b482065b23e7d/Exploratory%20Data%20Analysis/Questions/What%20are%20the%20top%2010%20selling%20product%20of%20Northwind%20Traders.jpg)
   &nbsp;
+  
+   &nbsp;
 
-## Classify customers based on their sales volumes (Grade A-C)
+## 2. Classify customers based on their sales volumes (Grade A-C)
 
 ```sql
 SELECT c.companyname, ROUND(SUM((od.quantity * od.unitprice ))) AS total_sales_amount,
