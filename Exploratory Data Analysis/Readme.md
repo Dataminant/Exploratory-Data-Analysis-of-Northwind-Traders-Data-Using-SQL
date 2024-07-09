@@ -178,7 +178,7 @@ ORDER BY employee_age, employee_full_name;
 
 ## 10. What is the average days between the order date and the shipping date, also the total number of orders for year 1998.
 ##    Show orders with average days between the order date and the shipping date is greater or equal 5 days.
-##    The total number of orders is greater than 10 orders. */
+##    The total number of orders is greater than 10 orders. 
 
 ```sql
 WITH cte_avg_days AS (
