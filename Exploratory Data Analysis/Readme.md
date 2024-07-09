@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Northwind Traders Sales Data
 
-## 1. Chaning the table names
+## Chaning the table names
 
 ```sql
 ALTER TABLE customers
@@ -28,3 +28,10 @@ ALTER TABLE suppliers
 RENAME TO the_dataminant_suppliers;
 
 ```
+ &nbsp;
+
+  &nbsp;
+
+  ## Chaning the table names
+
+  
