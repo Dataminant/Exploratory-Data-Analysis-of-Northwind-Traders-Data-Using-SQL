@@ -197,7 +197,7 @@ WITH cte_avg_days AS (
 SELECT * FROM cte_avg_days
 WHERE average_days_between_order_shipping >= 5
 AND total_number_orders > 10;
-
+```
 ![avg day btw od and sd](https://github.com/Dataminant/Exploratory-Data-Analysis-of-Northwind-Traders-Sales-Data/blob/64511d017b014b6c4cf0a7dc31ac992adec0f9ba/Exploratory%20Data%20Analysis/Questions/What%20is%20the%20average%20days%20between%20the%20order%20date%20and%20the%20shipping%20date%2C%20also%20the%20total%20number%20of%20orders%20for%20year%201998%20-%20Question.jpg)
 
 ![avg day btw od and sd](https://github.com/Dataminant/Exploratory-Data-Analysis-of-Northwind-Traders-Sales-Data/blob/64511d017b014b6c4cf0a7dc31ac992adec0f9ba/Exploratory%20Data%20Analysis/Questions/What%20is%20the%20average%20days%20between%20the%20order%20date%20and%20the%20shipping%20date%2C%20also%20the%20total%20number%20of%20orders%20for%20year%201998%20-%20Answer.jpg)
