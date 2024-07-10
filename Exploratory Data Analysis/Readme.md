@@ -210,7 +210,7 @@ AND total_number_orders > 10;
   
    &nbsp;
 
-## 10. Which shipping company is used the most?
+## 11. Which shipping company is used the most?
 ```sql
 SELECT s.shipperid, s.companyname, COUNT(o.orderid) AS number_of_order_shipped
 FROM the_dataminant_orders o
