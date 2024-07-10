@@ -33,7 +33,7 @@ What is the total quantity sold?
 
 What is the average revenue
 
-### Customer Analysis:  
+### 📍 Customer Analysis:  
 
 What is the total number of customers
 
