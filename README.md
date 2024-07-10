@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Northwind- Traders Data Using SQL
+# Exploratory Data Analysis of Northwind Traders Data Using SQL
 
 ## Introduction  
 
