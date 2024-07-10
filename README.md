@@ -22,7 +22,8 @@ This project involves a sales & order data for a fictitious gourmet food supplie
 
   &nbsp;
 
-📍 ### Sales Analysis:
+
+ 📍 **Sales Analysis:**
 
 What is the total sales revenue?
 
@@ -32,7 +33,7 @@ What is the total quantity sold?
 
 What is the average revenue
 
-📍 ### Customer Analysis:  
+### Customer Analysis:  
 
 What is the total number of customers
 
