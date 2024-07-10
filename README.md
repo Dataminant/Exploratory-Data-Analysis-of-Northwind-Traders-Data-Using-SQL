@@ -67,9 +67,9 @@ Provide list and full details about all employees and the managers they report t
 
 ### 📍Shipping Analysis :
 
-     Which shipping company is used the most?
+    Which shipping company is used the most?
 
-     What is the average days between the order date and the shipping date, also the total number of orders for year 1998.
+    What is the average days between the order date and the shipping date, also the total number of orders for year 1998.
  &nbsp;
 
   &nbsp;
