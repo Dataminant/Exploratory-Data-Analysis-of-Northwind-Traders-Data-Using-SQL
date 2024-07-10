@@ -22,7 +22,7 @@ This project involves a sales & order data for a fictitious gourmet food supplie
 
   &nbsp;
 
-### Sales Analysis:
+📍 ### Sales Analysis:
 
 What is the total sales revenue?
 
@@ -32,7 +32,7 @@ What is the total quantity sold?
 
 What is the average revenue
 
-### Customer Analysis:  
+📍 ### Customer Analysis:  
 
 What is the total number of customers
 
@@ -75,7 +75,7 @@ What is the average days between the order date and the shipping date, also the 
   
 ## Conclusion and Recommendations
 
-Based on the analysis conducted, the following conclusions and recommendations can be made:
+
 
 The best-selling product categories should be prioritized for inventory management and marketing strategies.
 
