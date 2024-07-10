@@ -9,15 +9,15 @@ This project involves a sales & order data for a fictitious gourmet food supplie
   
 ## Objective
 
-*Estimate the total number of orders and the revenue generated.
+* Estimate the total number of orders and the revenue generated.
 
-*Identify the best selling products.
+* Identify the best selling products.
 
-*Determine the most frequently sold product categories.
+* Determine the most frequently sold product categories.
 
-*Identify the most commonly used shipper by customers.
+* Identify the most commonly used shipper by customers.
 
-*Perform geographic analysis of sales.
+* Perform geographic analysis of sales.
 &nbsp;
 
   &nbsp;
