@@ -25,51 +25,51 @@ This project involves a sales & order data for a fictitious gourmet food supplie
 
 ### 📍Sales Analysis :
 
-What is the total sales revenue?
+      What is the total sales revenue?
 
-What is the total number of order recorded?
+      What is the total number of order recorded?
 
-What is the total quantity sold?
+      What is the total quantity sold?
 
-What is the average revenue
+      What is the average revenue
 
 ### 📍Customer Analysis :  
 
-What is the total number of customers
+      What is the total number of customers
 
-Classify customers based on their sales volumes (Grade A-C)
+      Classify customers based on their sales volumes (Grade A-C)
 
-Which customer made the most purchase from Northwind Traders?
+      Which customer made the most purchase from Northwind Traders?
 
 
 ### 📍Product Analysis :  
 
-What are the top 10 selling product of Northwind Traders?
+      What are the top 10 selling product of Northwind Traders?
 
-How many products are in the catalog
+      How many products are in the catalog
 
-What is the sales revenue by product category?
+      What is the sales revenue by product category?
 
 
 ### 📍Geographical Analysis :
 
-What is the company's sales performances by cities?
+      What is the company's sales performances by cities?
 
-What is the company's sales performances by country?
+      What is the company's sales performances by country?
 
 
 ### 📍Employee Analysis :
 
-Who is the best performing sales representative in terms of revenue generating?
+      Who is the best performing sales representative in terms of revenue generating?
 
-Provide list and full details about all employees and the managers they report to?
+      Provide list and full details about all employees and the managers they report to?
 
 
 ### 📍Shipping Analysis :
 
-  Which shipping company is used the most?
+       Which shipping company is used the most?
 
-  What is the average days between the order date and the shipping date, also the total number of orders for year 1998.
+       What is the average days between the order date and the shipping date, also the total number of orders for year 1998.
  &nbsp;
 
   &nbsp;
